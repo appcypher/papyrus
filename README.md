@@ -1,3 +1,3 @@
 # Papyrus
 
-A Fission-based Note Taking App
+A Collaborative Document Editing App Powered by Fission.
