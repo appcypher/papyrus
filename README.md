@@ -1,3 +1,3 @@
 # Papyrus
 
-A Simple Note Taking App.
+A Note Taking App For Demoing `rs-webnative`.
